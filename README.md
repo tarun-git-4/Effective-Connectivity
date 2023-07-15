@@ -1,3 +1,4 @@
+# IIITA | MINI Project '23
 # Analysis Of Effective Connecitivity Of Emotional State Using EEG Data
 
 ## Project Description
