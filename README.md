@@ -1,7 +1,8 @@
-# IIITA | MINI Project '23
 # Analysis Of Effective Connecitivity Of Emotional State Using EEG Data
 
 ## Project Description
+IIITA | MINI Project '23
+
 This study is aimed at determining how emotional state affects effective connectivity and controls brain areas and comparing the results for diﬀerent emotions. 
 
 Project Objectives :-
