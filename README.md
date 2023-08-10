@@ -48,7 +48,11 @@ Execute: git clone https://github.com/tarun-git-4/Effective-Connectivity
 
 ## Author
 Tarun Jayadevan
+
 Jerald Kannath
+
 Divakar Singh
+
 Gauttam Goyal
+
 Aalok Bhuyar
